@@ -1,0 +1,7 @@
+/* Useful settings
+ ================= */
+{
+  "bold_folder_labels": true,
+	"caret_extra_width": 2,
+	"highlight_line": true
+}
