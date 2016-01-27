@@ -10,5 +10,6 @@
 		"draw_normal",
 		"draw_active"
 	],
-	"overlay_scroll_bars": "enabled"
+	"overlay_scroll_bars": "enabled",
+	"translate_tabs_to_spaces": true
 }
