@@ -5,11 +5,14 @@
 	"bold_folder_labels": true,
 	"caret_extra_width": 2,
 	"highlight_line": true,
+	
 	"indent_guide_options":
 	[
 		"draw_normal",
 		"draw_active"
 	],
 	"overlay_scroll_bars": "enabled",
-	"translate_tabs_to_spaces": true
+	"rulers": [79],
+	"translate_tabs_to_spaces": true,
+	"wrap_width": 79
 }
